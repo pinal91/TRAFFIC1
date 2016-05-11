@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_login_screen"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.talkme.Login" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+       
+        android:src="@drawable/ic_launcher_web" />
+
+    <EditText
+        android:id="@+id/etxtuname"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/editstyle"
+        android:textColor="#00a99d"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Your Email ID"
+         >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/etxtpass"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/editstyle"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:inputType="textPassword"
+        android:hint="Enter Your Password"
+        android:textColor="#00a99d" >
+
+       
+    </EditText>
+
+    <Button
+        android:id="@+id/btnlogin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Lets Go"
+        android:layout_marginTop="20dp"
+        android:background="#00a99d"
+        
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/txtregister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#0174DF"
+        android:textSize="22sp"
+        android:layout_marginTop="10dp"
+        android:text="New User !! Register Here"
+       />
+
+</LinearLayout>

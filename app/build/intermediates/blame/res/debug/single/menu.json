@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/loginpage.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/loginpage.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/registrationpage.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/registrationpage.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/file_fine.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/file_fine.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/home_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/home_page.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/find_owner.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/find_owner.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/traffic_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/traffic_page.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/setting_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/setting_page.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/add__traffic.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/add__traffic.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/search_qr_code.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/search_qr_code.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/menu/breakdown_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/menu/breakdown_page.xml"
+    }
+]

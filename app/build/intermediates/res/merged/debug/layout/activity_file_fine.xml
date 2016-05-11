@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    
+    android:background="@drawable/traffic_imagetwo"
+
+  
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+      android:layout_marginLeft="5dp"
+      android:layout_marginRight="5dp"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:gravity="center"
+            android:orientation="horizontal">
+            
+
+            <EditText
+                android:id="@+id/editText1"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:gravity="center"
+                
+               android:background="@drawable/editstyle"
+                android:hint="EX: GJ-06-FK-5232"
+                android:ems="10" >
+                
+                <requestFocus />
+        
+    </EditText>
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="40dp"
+                android:layout_marginLeft="10dp"
+             android:layout_height="40dp"
+             android:gravity="center"
+             android:layout_gravity="center"
+               
+            android:background="@drawable/ic_searchone"
+               
+                
+                
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="fill_parent"
+                android:layout_weight=".1"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_height="wrap_content"
+                android:text="OWNER NAME" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="fill_parent"
+                android:layout_weight=".1"
+                 android:textColor="#A51405"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_height="wrap_content"
+                 />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/txtemailid"
+                android:layout_width="wrap_content"
+                android:layout_weight=".1"
+                 android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_height="wrap_content"
+                android:text="OWNER EMAIL ID" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                 android:textColor="#A51405"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".1"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/btndate"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight=".1"
+                android:gravity="center"
+                android:background="@android:color/transparent"
+                android:drawableLeft="@drawable/ic_date" />
+
+            <TextView
+                android:id="@+id/txtdate"
+                android:layout_width="fill_parent"
+                android:layout_weight=".1"
+                 android:textColor="#A51405"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_height="wrap_content"
+                android:text="DATE" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:layout_height="wrap_content" >
+
+           <EditText
+        android:id="@+id/etxtpname"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/editstyle"
+        android:textColor="#00a99d"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Person Name"
+         >
+
+       
+        
+    </EditText>
+      <EditText
+        android:id="@+id/etxtplicence"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+         android:layout_marginTop="5dp"
+        android:background="@drawable/editstyle"
+        android:textColor="#00a99d"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Licence No"
+         >
+
+       
+    </EditText>
+
+      <Spinner
+          android:id="@+id/spinner1"
+           android:layout_marginTop="5dp"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      
+      <Button
+        android:id="@+id/btnpfine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        android:layout_marginTop="20dp"
+        android:background="#00a99d"
+        
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+    
+
+</ScrollView>

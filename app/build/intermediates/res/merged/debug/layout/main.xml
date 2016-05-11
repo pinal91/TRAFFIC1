@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:background="@drawable/traffic_imagetwo"
+  android:layout_height="fill_parent">
+
+  <FrameLayout
+      android:id="@+id/cameraPreview"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="2.29" />
+
+  <TextView
+    android:id="@+id/scanText"
+    android:text="Scanning..."
+    android:layout_height="wrap_content" 
+    android:layout_width="match_parent">
+  </TextView>
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      android:layout_weight="1" >
+       <Button
+        android:id="@+id/ScanButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="SCAN"
+        android:layout_marginTop="20dp"
+        android:background="#00a99d"
+        android:layout_marginLeft="10dp"
+         android:layout_marginRight="10dp"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+       
+         <Button
+        android:id="@+id/btnsearch"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="SEARCH"
+        android:layout_marginTop="20dp"
+        android:background="#00a99d"
+         android:layout_marginLeft="10dp"
+         android:layout_marginRight="10dp"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+     
+
+     
+
+  </LinearLayout>
+</LinearLayout>

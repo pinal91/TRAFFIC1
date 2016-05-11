@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="420dpi"
+    format="7"
+    timestamp="5144468798582" >
+
+    <task
+        name="javac"
+        duration="14072" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="5191" />
+    <task
+        name="verifier"
+        duration="629" />
+
+    <artifact
+        location="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="5144468798582" >
+        <artifact
+            location="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

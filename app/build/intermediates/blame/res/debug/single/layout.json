@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_add__traffic.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_add__traffic.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/hhh.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/hhh.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_file_fine.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_file_fine.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_traffic_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_traffic_page.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/singlefaculty.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/singlefaculty.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_loginpage.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_loginpage.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_registrationpage.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_registrationpage.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_setting_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_setting_page.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/fggg.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/fggg.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_home_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_mail.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_mail.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_history.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_history.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_breakdown_page.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_breakdown_page.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_find_owner.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_find_owner.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_search_qr_code.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_search_qr_code.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/activity_my_location.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/activity_my_location.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/detailsview.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/detailsview.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/singlenotification.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/src/main/res/layout/singlenotification.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml"
+    }
+]

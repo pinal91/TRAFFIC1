@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/libs/additionnal.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_a969dd58d119a7ed18200d7cbda72219d54fa806/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_ca809c1060f86685ad3d97a8ed667d0b3c5a1bcb/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_b78c37285fe0a0b5b8d0a1af832e34d1311203ea/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/libs/universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.4_1ddf8a452b28a6e3a23cec131e4026772d64ca67/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="bc5ba2fa312bf20837aaccfd1035d38a702564c1">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6252fb11d1943bfbb44500b993ca5955e32ca6ca/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_6e2a44188096f6c5073857c0feb6971014b31c35/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_446be11d81f622f2c5c9d01a942e1475ed300db3/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/libs/activation.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_f51b81c5332ad0b99173d79bb30aefb8365062ce/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="0a06a356ce939667326ffdc8d9f5e4a2e2fbd5e6">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d30569d44423ce75d558bcc5669f4192c2aaa8b/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/libs/zbar.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/2/zbar_e891fd2ef84c98f92174be6c7bc66805946f45a5/classes.dex" />
+    </item>
+    <item
+        jar="/home/pinal/Downloads/MY Project/TRAFFIC2/app/libs/mail.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/pinal/Downloads/MY Project/TRAFFIC2/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_e952f7d8ddcdff81598d185fc461f241d5e8ded0/classes.dex" />
+    </item>
+
+</items>
